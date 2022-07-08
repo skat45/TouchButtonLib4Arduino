@@ -1,0 +1,8 @@
+bb	KEYWORD1
+check	KEYWORD2
+getTaps	KEYWORD2
+isSingle	KEYWORD2
+isDouble	KEYWORD2
+isTriple	KEYWORD2
+isHold	KEYWORD2
+isHolded	KEYWORD2
